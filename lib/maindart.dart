@@ -51,6 +51,8 @@ class _DartGame extends State<DartGame> {
     } else if (ra > 0.48 && ra <= 0.69) {
       achko = 1;
     } else {
+
+
       achko = 0;
     }
   }
